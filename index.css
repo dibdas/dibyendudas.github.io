@@ -152,7 +152,9 @@ background-color: black;
     display:flex;
     flex-wrap:wrap;
   }  
-
+.header{
+  padding-left: 0.2vw;
+}
 .headingT{
   font-size:2rem;
 padding:0.1vw;
@@ -171,23 +173,6 @@ font-size: 1.8rem;
   
 }
 
-/*
-.banner .card {
-    margin-top:20px;
-  border-radius: 10px;
-  display: block;
-    height:500px;
-  }
-.banner .card .heading {
-      color: grey;
-  font-family: "Playfair Display", serif;
-      font-size: 3rem;
-      position:relative;
-      margin-bottom: 1px;
-  padding: 20px;
-      border:1px wheat;
-      margin-top: 20px;
-}
 
 
 
